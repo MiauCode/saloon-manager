@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Table 1",
+    "price_per_hour": 10.0,
+    "table_type": "Billiard",
+    "history": [],
+    "paused_seconds": 0,
+    "paused": false
+  },
+  {
+    "name": "Table 2",
+    "price_per_hour": 10.0,
+    "table_type": "Snooker",
+    "history": [],
+    "paused_seconds": 0,
+    "paused": false
+  },
+  {
+    "name": "Table 3",
+    "price_per_hour": 10.0,
+    "table_type": "Darts",
+    "history": [],
+    "paused_seconds": 0,
+    "paused": false
+  }
+]

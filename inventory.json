@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "name": "Drinks",
+      "description": ""
+    },
+    {
+      "name": "Food",
+      "description": ""
+    }
+  ],
+  "items": [
+    {
+      "name": "Lonkero",
+      "category": "Drinks",
+      "storage_quantity": 7,
+      "front_quantity": 6,
+      "price": 7.0,
+      "cost": 4.0,
+      "description": "Long drink",
+      "barcode": "",
+      "min_stock_level": 5
+    },
+    {
+      "name": "Heineken",
+      "category": "Drinks",
+      "storage_quantity": 8,
+      "front_quantity": 4,
+      "price": 8.0,
+      "cost": 5.0,
+      "description": "Heineken hana",
+      "barcode": "",
+      "min_stock_level": 3
+    }
+  ]
+}
